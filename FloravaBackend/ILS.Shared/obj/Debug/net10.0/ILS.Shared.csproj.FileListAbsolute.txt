@@ -1,0 +1,12 @@
+E:\Projects\Florava\FloravaBackend\ILS.Shared\bin\Debug\net10.0\ILS.Shared.deps.json
+E:\Projects\Florava\FloravaBackend\ILS.Shared\bin\Debug\net10.0\ILS.Shared.dll
+E:\Projects\Florava\FloravaBackend\ILS.Shared\bin\Debug\net10.0\ILS.Shared.pdb
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ILS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ILS.Shared.AssemblyInfoInputs.cache
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ILS.Shared.AssemblyInfo.cs
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ILS.Shared.csproj.CoreCompileInputs.cache
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ILS.Shared.dll
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\refint\ILS.Shared.dll
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ILS.Shared.pdb
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ref\ILS.Shared.dll
+E:\Projects\Florava\FloravaBackend\ILS.Shared\obj\Debug\net10.0\ILS.Shared.sourcelink.json

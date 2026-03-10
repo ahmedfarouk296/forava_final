@@ -1,0 +1,12 @@
+E:\Projects\Florava\FloravaBackend\ILS.Domain\bin\Debug\net10.0\ILS.Domain.deps.json
+E:\Projects\Florava\FloravaBackend\ILS.Domain\bin\Debug\net10.0\ILS.Domain.dll
+E:\Projects\Florava\FloravaBackend\ILS.Domain\bin\Debug\net10.0\ILS.Domain.pdb
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ILS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ILS.Domain.AssemblyInfoInputs.cache
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ILS.Domain.AssemblyInfo.cs
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ILS.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ILS.Domain.dll
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\refint\ILS.Domain.dll
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ILS.Domain.pdb
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ref\ILS.Domain.dll
+E:\Projects\Florava\FloravaBackend\ILS.Domain\obj\Debug\net10.0\ILS.Domain.sourcelink.json
