@@ -43,6 +43,5 @@
   },
   "overrides": {
     "react-is": "^18.3.1"
-  },
-  "homepage": "https://ahmedfarouk296.github.io/forava_final",
+  }
 }
